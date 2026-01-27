@@ -1,1 +1,1 @@
-Foxviremesh - gameready. Found out ue5.6.1 missing lod 0, lod 1 bug
+Initial commit v2
